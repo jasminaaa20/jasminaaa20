@@ -1,4 +1,4 @@
-### Hi there. I am Akmal![Akmal](https://github.com/jasminaaa20/jasminaaa20/assets/110975832/01309c50-e0e3-44d9-ae7c-9989a7fbedab)
+### Hi there. I am Akmal
 
 
 <!--
