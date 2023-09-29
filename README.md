@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 🔭 I'm currently working on a full stack blog application.
+* 🙈 I'm currently learning the MERN stack. i.e. MongoDB, Express, React and Node.js.
+* 👁 My interests lie in the area of computer vision.
+* 📫 Reach me @ akmal.20@cse.mrt.ac.lk.
