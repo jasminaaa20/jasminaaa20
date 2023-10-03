@@ -1,39 +1,47 @@
 # Hello, I'm Akmal! 👋
-Improvise. Adapt. Overcome
+Improvise. Adapt. Overcome.
 
 I'm a Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **full stack blog application** and **Human Action Recognition in dark lighting conditions using Deep Learning techniques**.
 
 ### **Languages**:
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) 
-![Java](URL_to_Java_svg) 
-![C++](URL_to_C++_svg) 
-![JavaScript](URL_to_JavaScript_svg) 
-![SQL](URL_to_SQL_svg)
+<div style="display: flex;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="30" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;
+</div>
 
 ### **Frameworks & Libraries**:
-![PyTorch](URL_to_PyTorch_svg) 
-![Keras](URL_to_Keras_svg) 
-![Scikit-learn](URL_to_Scikit-learn_svg) 
-![OpenCV](URL_to_OpenCV_svg) 
-![OpenPose](URL_to_OpenPose_svg) 
-![YOLO](URL_to_YOLO_svg) 
-![HTML](URL_to_HTML_svg) 
-![CSS](URL_to_CSS_svg) 
-![React](URL_to_React_svg) 
-![React Native](URL_to_React_Native_svg)
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" width="30" alt="CSS3" title="CSS3">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="30" alt="HTML5" title="HTML5">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" width="30" alt="Pandas" title="Pandas">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" title="OpenCV">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytorch/pytorch-original.svg" width="30" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="30" alt="Scikit learn" title="Scikit learn">&nbsp;&nbsp;&nbsp;
+  <img src="https://assets-global.website-files.com/5f6bc60e665f54db361e52a9/63f6895d515270ffdafd36d5_yolov8-p-500.png" width="30" alt="YOLO" title="YOLO">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="30" alt="React" title="React">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="30" alt="React Native" title="React Native">&nbsp;&nbsp;&nbsp;
+</div>
 
 ### **Databases**:
-![MySQL](URL_to_MySQL_svg) 
-![MongoDB](URL_to_MongoDB_svg)
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;&nbsp;
+</div>
 
 ### **Development Environments & Tools**:
-![Jupyter](URL_to_Jupyter_svg) 
-![Colab](URL_to_Colab_svg) 
-![Git](URL_to_Git_svg) 
-![PyCharm](URL_to_PyCharm_svg) 
-![VS Code](URL_to_VS_Code_svg) 
-![IntelliJ IDEA](URL_to_IntelliJ_IDEA_svg) 
-![LaTeX](URL_to_LaTeX_svg)
+<div style="display: flex;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="30" alt="Colab" title="Colab">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" width="30" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="30" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;
+</div>
 
 
 
@@ -51,9 +59,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 * 🔭 I'm currently working on a full stack blog application.
 * 🙈 I'm currently learning the MERN stack. i.e. MongoDB, Express, React and Node.js.
 * 👁 My interests lie in the area of computer vision.
 * 📫 Reach me @ akmal.20@cse.mrt.ac.lk.
+-->
