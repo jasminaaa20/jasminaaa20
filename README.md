@@ -1,17 +1,19 @@
-# Hello, I'm Akmal! 👋
+# Hi there, I'm Akmal! 👋🎉
 <div align="center">
-<h2>Improvise. Adapt. Overcome.</h2>
+<h2>🚀 Improvise. Adapt. Overcome. 🚀</h2>
 </div>
 
 I'm a Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **full stack blog application** and **Human Action Recognition in dark lighting conditions using Deep Learning techniques**.
 
-## Current Projects:
-- [**MERN Blog**](https://github.com/jasminaaa20/mernblog) <br> <p style="margin-left: 40px;">A full-stack blog application built using the MERN stack (MongoDB, Express, React, and Node.js).</p>
-- **[Human action recognition in challenging lighting condition](https://github.com/jasminaaa20/Human-Action-Recognition-in-the-dark)**<br> <p style="margin-left: 40px;">This project focuses on detecting human actions under challenging lighting conditions using deep learning methonds.</p>
+## 🚧 Current Projects I'm working on
+- [**MERN Blog**](https://github.com/jasminaaa20/mernblog) 📝
+  - A full-stack blog application built using the MERN stack (MongoDB, Express, React, and Node.js).
+- [**Human action recognition in challenging lighting condition**](https://github.com/jasminaaa20/Human-Action-Recognition-in-the-dark) 🌌
+  - This project focuses on detecting human actions under challenging lighting conditions using deep learning methods.
 
-## How to reach me:
-- Email: akmal.20@cse.mrt.ac.lk
-- LinkedIn: [Akmal Ali Jasmin](https://www.linkedin.com/in/akmal-ali-jasmin-36aa55237)
+## 📬 Reach me at:
+- 📧 Email: akmal.20@cse.mrt.ac.lk
+- 🔗 LinkedIn: [Akmal Ali Jasmin](https://www.linkedin.com/in/akmal-ali-jasmin-36aa55237)
 
 ## **Languages**:
 <div style="display: flex;">
