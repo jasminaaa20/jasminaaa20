@@ -15,7 +15,7 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 - 📧 Email: akmal.20@cse.mrt.ac.lk
 - 🔗 LinkedIn: [Akmal Ali Jasmin](https://www.linkedin.com/in/akmal-ali-jasmin-36aa55237)
 
-## **Languages**:
+## Languages:
 <div style="display: flex;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="30" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## **Frameworks & Libraries**:
+## Frameworks & Libraries:
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" width="30" alt="CSS3" title="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="30" alt="HTML5" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,13 +37,13 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="30" alt="React Native" title="React Native">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## **Databases**:
+## Databases:
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-## **Development Environments & Tools**:
+## Development Environments & Tools:
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="30" alt="Colab" title="Colab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" width="30" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -56,7 +56,15 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 <br>
 <br>
 
+## Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20)
+
+## Github Streak
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jasminaaa20&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+
 
 
 <!--
