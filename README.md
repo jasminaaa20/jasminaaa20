@@ -59,13 +59,13 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 ## Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20)
-
-## Github Streak
+<!---
+## Github Stats
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jasminaaa20&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminaaa20)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <!--
 **jasminaaa20/jasminaaa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
