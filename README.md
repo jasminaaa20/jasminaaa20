@@ -6,8 +6,8 @@
 I'm a Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **full stack blog application** and **Human Action Recognition in dark lighting conditions using Deep Learning techniques**.
 
 ## 🚧 Current Projects I'm working on
-- [**MERN Blog**](https://github.com/jasminaaa20/mernblog) 📝
-  - A full-stack blog application built using the MERN stack (MongoDB, Express, React, and Node.js).
+- [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
+  - An application that will cater to the all the day to day needs of a Sri Lankan. Made using Flutter.
 - [**Human action recognition in challenging lighting condition**](https://github.com/jasminaaa20/Human-Action-Recognition-in-the-dark) 🌌
   - This project focuses on detecting human actions under challenging lighting conditions using deep learning methods.
 
