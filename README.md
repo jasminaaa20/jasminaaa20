@@ -8,8 +8,8 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 ## 🚧 Current Projects I'm working on
 - [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
   - An application that will cater to the all the day to day needs of a Sri Lankan. Made using Flutter.
-- [**Human action recognition in challenging lighting condition**](https://github.com/jasminaaa20/Human-Action-Recognition-in-the-dark) 🌌
-  - This project focuses on detecting human actions under challenging lighting conditions using deep learning methods.
+- [**Focus on me**](https://github.com/jasminaaa20/focus-on-me) 🌌
+  - This project focuses on (pun intended) building an application that runs on a video stream and focus on a select person and blur others who may appear on the screen. This project also aims to act as an automated exam proctoring tool.
 
 ## 📬 Reach me at:
 - 📧 Email: akmal.20@cse.mrt.ac.lk
