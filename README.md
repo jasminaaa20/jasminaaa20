@@ -10,6 +10,8 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
   - An application that will cater to the all the day to day needs of a Sri Lankan. Made using Flutter.
 - [**Focus on me**](https://github.com/jasminaaa20/focus-on-me) 🌌
   - This project focuses on (pun intended) building an application that runs on a video stream and focus on a select person and blur others who may appear on the screen. This project also aims to act as an automated exam proctoring tool.
+- [**Offside finder**](https://github.com/jasminaaa20/offside-finder)
+  - A computer vision project to automatically detect if the offside rule in Football is violated. 
 
 ## 📬 Reach me at:
 - 📧 Email: akmal.20@cse.mrt.ac.lk
