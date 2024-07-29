@@ -13,7 +13,12 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 - [**Offside finder**](https://github.com/jasminaaa20/offside-finder)
   - A computer vision project to automatically detect if the offside rule in Football is violated.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jasminaaa20)](https://git.io/streak-stats)
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jasminaaa20" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## 📬 Reach me at:
 - 📧 Email: akmal.20@cse.mrt.ac.lk
