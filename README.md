@@ -68,7 +68,7 @@ I'm a Computer Science & Engineering undergraduate of University of Moratuwa spe
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl" alt="Top Langs" />
 </p>
 
 <!---
