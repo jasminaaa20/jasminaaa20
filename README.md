@@ -30,6 +30,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="30" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dart/dart-original.svg" width="30" alt="Dart" title="Dart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
@@ -37,6 +38,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" width="30" alt="CSS3" title="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="30" alt="HTML5" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flutter/flutter-original.svg" width="30" alt="Flutter" title="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" width="30" alt="Pandas" title="Pandas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" title="OpenCV">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytorch/pytorch-original.svg" width="30" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
