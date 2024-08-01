@@ -3,7 +3,7 @@
 <h2>🚀 Improvise. Adapt. Overcome. 🚀</h2>
 </div>
 
-I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **full stack blog application** and **Human Action Recognition in dark lighting conditions using Deep Learning techniques**.
+I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **mobile application that will cater to the every time bound need of a Muslim in Sri Lanka** and a **computer vision application that runs on video streams**.
 
 ## 🚧 Current Projects I'm working on
 - [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
