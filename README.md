@@ -31,6 +31,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dart/dart-original.svg" width="30" alt="Dart" title="Dart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" width="30" alt="go" title="go">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
