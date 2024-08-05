@@ -52,6 +52,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## Databases
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/postgresql-original.svg" width="30" alt="PostGreSQL" title="PostGreSQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
