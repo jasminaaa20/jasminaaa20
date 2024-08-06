@@ -1,4 +1,4 @@
-# Hi there, I'm Akmal! 👋🎉
+# Hi there, I'm Akmal! 👋
 <div align="center">
 <h2>🚀 Improvise. Adapt. Overcome. 🚀</h2>
 </div>
