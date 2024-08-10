@@ -47,6 +47,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   <img src="https://assets-global.website-files.com/5f6bc60e665f54db361e52a9/63f6895d515270ffdafd36d5_yolov8-p-500.png" width="30" alt="YOLO" title="YOLO">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="30" alt="React" title="React">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="30" alt="React Native" title="React Native">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="src\htmx.svg" width="30" alt="HTMX" title="HTMX">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Databases
