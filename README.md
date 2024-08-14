@@ -48,7 +48,6 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="30" alt="HTML5" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flutter/flutter-original.svg" width="30" alt="Flutter" title="Flutter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pandas/pandas-original.svg" width="30" alt="Pandas" title="Pandas">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" title="OpenCV">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/pytorch/pytorch-original.svg" width="30" alt="PyTorch" title="PyTorch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" width="30" alt="Scikit learn" title="Scikit learn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://assets-global.website-files.com/5f6bc60e665f54db361e52a9/63f6895d515270ffdafd36d5_yolov8-p-500.png" width="30" alt="YOLO" title="YOLO">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
