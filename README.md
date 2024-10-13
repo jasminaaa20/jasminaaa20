@@ -8,9 +8,9 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## 🚧 Current Projects I'm working on
 - [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
   - An application that will cater to all day to day needs of a Sri Lankan Muslim. Made using Flutter.
+<!--
 - [**Focus on me**](https://github.com/jasminaaa20/focus-on-me) 🌌
   - This project focuses on (pun intended) building an application that runs on a video stream and focus on a select person and blur others who may appear on the screen. This project also aims to act as an automated exam proctoring tool.
-<!--
 - [**Offside finder**](https://github.com/jasminaaa20/offside-finder)
   - A computer vision project to automatically detect if the offside rule in Football is violated.
 -->
