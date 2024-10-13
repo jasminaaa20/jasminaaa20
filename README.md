@@ -12,6 +12,8 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   - This project focuses on (pun intended) building an application that runs on a video stream and focus on a select person and blur others who may appear on the screen. This project also aims to act as an automated exam proctoring tool.
 - [**Offside finder**](https://github.com/jasminaaa20/offside-finder)
   - A computer vision project to automatically detect if the offside rule in Football is violated.
+- **Word Replacer**
+  - A chrome extension that automatically changes words as you submit. Helpful in converting slangs, abbreviations to proper words.
 
 ## 🔥 Streak
 <div align="center">
