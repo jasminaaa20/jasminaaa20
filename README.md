@@ -27,7 +27,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## 📊 Stats
 <div align="center">
   <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img src="https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true">
   </a>
 </div>
 
