@@ -15,7 +15,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   - A computer vision project to automatically detect if the offside rule in Football is violated.
 -->
 - [**Group Tweets**](https://github.com/jasminaaa20/group-tweets)
-  - A chrome extension that automatically changes words as you submit. Helpful in converting slangs, abbreviations to proper words.
+  - A chrome extension which you can use to group tweets under topics of your choice.
 
 ## 🔥 Streak
 <div align="center">
