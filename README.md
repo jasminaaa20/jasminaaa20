@@ -17,12 +17,14 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 - [**Group Tweets**](https://github.com/jasminaaa20/group-tweets)
   - A chrome extension which you can use to group tweets under topics of your choice.
 
+<!--
 ## 🔥 Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=jasminaaa20" alt="GitHub Streak" />
   </a>
 </div>
+-->
 
 ## 📊 Stats
 <div align="center">
