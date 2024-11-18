@@ -16,6 +16,8 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 -->
 - [**Group Tweets**](https://github.com/jasminaaa20/group-tweets)
   - A chrome extension which you can use to group tweets under topics of your choice.
+- [**WordSwap**](https://github.com/jasminaaa20/group-tweets)
+  - A Chrome extension that enhances your typing experience by automatically replacing predefined words or phrases with their desired alternatives in real-time.
 
 
 ## 🔥 Streak
