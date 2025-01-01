@@ -1,11 +1,13 @@
 # Hi there, I'm Akmal! 👋
+
 <div align="center">
-<h2>🚀 Improvise. Adapt. Overcome. 🚀</h2>
+  <h2>🚀 Improvise. Adapt. Overcome. 🚀</h2>
 </div>
 
 I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **mobile application that will cater to the every time bound need of a Muslim in Sri Lanka** and a **computer vision application that runs on video streams**.
 
 ## 🚧 Current Projects I'm working on
+
 - [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
   - An application that will cater to the all the day to day needs of a Sri Lankan. Made using Flutter.
 - [**Focus on me**](https://github.com/jasminaaa20/focus-on-me) 🌌
@@ -14,6 +16,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   - A computer vision project to automatically detect if the offside rule in Football is violated.
 
 ## 🔥 Streak
+
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=jasminaaa20" alt="GitHub Streak" />
@@ -21,21 +24,24 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 </div>
 
 ## 📬 Reach me at
-- 📧 Email: akmal.20@cse.mrt.ac.lk
+
+- 📧 Email: <akmal.20@cse.mrt.ac.lk>
 - 🔗 LinkedIn: [Akmal Ali Jasmin](https://www.linkedin.com/in/akmal-ali-jasmin-36aa55237)
 
 ## Languages
+
 <div style="display: flex;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="30" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dart/dart-original.svg" width="30" alt="Dart" title="Dart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" width="30" alt="go" title="go">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="30" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" width="30" alt="Java" title="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" title="C++">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/dart/dart-original.svg" width="30" alt="Dart" title="Dart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original.svg" width="30" alt="go" title="go">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Frameworks & Libraries
+
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" width="30" alt="CSS3" title="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="30" alt="HTML5" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,6 +57,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 </div>
 
 ## Databases
+
 <div style="display: flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg" width="30" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" width="30" alt="PostGreSQL" title="PostGreSQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,6 +65,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 </div>
 
 ## Development Environments & Tools
+
 <div style="display: flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="30" alt="Colab" title="Colab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" width="30" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,7 +106,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 
 * 🔭 I'm currently working on a full stack blog application.
 * 🙈 I'm currently learning the MERN stack. i.e. MongoDB, Express, React and Node.js.
