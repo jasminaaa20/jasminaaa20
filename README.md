@@ -97,7 +97,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake,c" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake" alt="Top Langs" />
 </p>
 
 <!--
