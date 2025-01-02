@@ -89,7 +89,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 <div style="display: flex;">
   <img src="src/colab.svg" width="30" alt="Colab" title="Colab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="src/intellij-idea.svg" width="30" alt="IntelliJ IDEA" title="IntelliJ IDEA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" alt="IntelliJ IDEA" title="IntelliJ IDEA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="30" alt="Jupyter" title="Jupyter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="src/latex.svg" width="30" alt="LaTeX" title="LaTeX">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" alt="Docker" title="Docker">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
