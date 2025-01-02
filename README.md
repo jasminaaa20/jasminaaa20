@@ -53,7 +53,9 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="30" alt="Dart" title="Dart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30" alt="go" title="go">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="src/sql.svg" width="30" alt="SQL" title="SQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" alt="Bash" title="Bash">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" alt="C" title="C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="src/markdown.svg" width="30" alt="Markdown" title="Markdown">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 </div>
@@ -87,6 +89,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## Development Environments & Tools
 
 <div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" alt="Linux" title="Linux">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="src/colab.svg" width="30" alt="Colab" title="Colab">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30" alt="IntelliJ IDEA" title="IntelliJ IDEA">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,6 +99,8 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" alt="PyCharm" title="PyCharm">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VS Code" title="VS Code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="30" alt="VS Code" title="VS Code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="30" alt="Swagger" title="Swagger">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="30" alt="CLion" title="CLion">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <br>
