@@ -3,40 +3,7 @@
 <div align="center">
   <h2>🚀 Improvise. Adapt. Overcome. 🚀</h2>
 </div>
-s
-I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a **mobile application that will cater to the every time bound need of a Muslim in Sri Lanka** and a **computer vision application that runs on video streams**.
-
-## 🚧 Current Projects I'm working on
-
-- [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
-  - An application that will cater to all day to day needs of a Sri Lankan Muslim. Made using Flutter.
-<!--
-- [**Focus on me**](https://github.com/jasminaaa20/focus-on-me) 🌌
-  - This project focuses on (pun intended) building an application that runs on a video stream and focus on a select person and blur others who may appear on the screen. This project also aims to act as an automated exam proctoring tool.
-- [**Offside finder**](https://github.com/jasminaaa20/offside-finder)
-  - A computer vision project to automatically detect if the offside rule in Football is violated.
--->
-- [**Group Tweets**](https://github.com/jasminaaa20/group-tweets)
-  - A chrome extension which you can use to group tweets under topics of your choice.
-- [**WordSwap**](https://github.com/jasminaaa20/group-tweets)
-  - A Chrome extension that enhances your typing experience by automatically replacing predefined words or phrases with their desired alternatives in real-time.
-
-
-## 🔥 Streak
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jasminaaa20" alt="GitHub Streak" />
-  </a>
-</div>
-
-
-## 📊 Stats
-<div align="center">
-  <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img src="https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true">
-  </a>
-</div>
+I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on a lot of things at once I couldn't list them all.
 
 ## 📬 Reach me at
 
@@ -97,6 +64,39 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+
+## 🚧 Current Projects I'm working on
+
+- [**Prayer Time Application Sri Lanka**](https://github.com/jasminaaa20/flutter-prayer-time) 📝
+  - An application that will cater to all day to day needs of a Sri Lankan Muslim. Made using Flutter.
+<!--
+- [**Focus on me**](https://github.com/jasminaaa20/focus-on-me) 🌌
+  - This project focuses on (pun intended) building an application that runs on a video stream and focus on a select person and blur others who may appear on the screen. This project also aims to act as an automated exam proctoring tool.
+- [**Offside finder**](https://github.com/jasminaaa20/offside-finder)
+  - A computer vision project to automatically detect if the offside rule in Football is violated.
+-->
+- [**Group Tweets**](https://github.com/jasminaaa20/group-tweets)
+  - A chrome extension which you can use to group tweets under topics of your choice.
+- [**WordSwap**](https://github.com/jasminaaa20/group-tweets)
+  - A Chrome extension that enhances your typing experience by automatically replacing predefined words or phrases with their desired alternatives in real-time.
+
+
+## 🔥 Streak
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=jasminaaa20" alt="GitHub Streak" />
+  </a>
+</div>
+
+
+## 📊 Stats
+<div align="center">
+  <a href=https://github.com/anuraghazra/github-readme-stats>
+    <img src="https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true">
+  </a>
+</div>
+
 
 ## Most Used Languages
 
