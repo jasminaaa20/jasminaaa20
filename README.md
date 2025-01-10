@@ -85,11 +85,11 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 
 ## 🔥 Streak
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jasminaaa20" alt="GitHub Streak" />
-  </a>
-</div>
+<center>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasminaaa20)](https://git.io/streak-stats)
+
+</center>
 
 ## 📊 Stats
 
