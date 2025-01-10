@@ -83,46 +83,21 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   - A Chrome extension that enhances your typing experience by automatically replacing predefined words or phrases with their desired alternatives in real-time.
 -->
 
+<!--
 ## 🔥 Streak
 
 <center>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasminaaa20)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasminaaa20&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </center>
+
+-->
 
 ## 📊 Stats
 
-<center>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 Most Used Languages
 
-<center>
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
-
-<!--
-**jasminaaa20/jasminaaa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-* 🔭 I'm currently working on a full stack blog application.
-* 🙈 I'm currently learning the MERN stack. i.e. MongoDB, Express, React and Node.js.
-* 👁 My interests lie in the area of computer vision.
-* 📫 Reach me @ akmal.20@cse.mrt.ac.lk.
--->
