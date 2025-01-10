@@ -96,8 +96,8 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 
 ## 📊 Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
