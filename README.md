@@ -1,10 +1,6 @@
 # Hi there, I'm Akmal! 👋
 
-<center>
-
 ## 🚀 Improvise. Adapt. Overcome. 🚀
-  
-</center>
 
 I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents.
 
@@ -86,12 +82,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 <!--
 ## 🔥 Streak
 
-<center>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasminaaa20&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</center>
-
 -->
 
 ## 📊 Stats
