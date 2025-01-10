@@ -93,17 +93,19 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 
 ## 📊 Stats
 
-<div align="center">
-  <a href=https://github.com/anuraghazra/github-readme-stats>
-    <img src="https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true">
-  </a>
-</div>
+<center>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasminaaa20&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
 
 ## 👨‍💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake" alt="Top Langs" />
-</p>
+<center>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake)](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
 
 <!--
 **jasminaaa20/jasminaaa20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
