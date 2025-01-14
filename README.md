@@ -83,11 +83,11 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
   - A Chrome extension that enhances your typing experience by automatically replacing predefined words or phrases with their desired alternatives in real-time.
 -->
 
-<!--
+
 ## 🔥 Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasminaaa20&theme=dark&hide_border=true)](https://git.io/streak-stats)
--->
+[![GitHub Streak](https://github-readme-streak-stats-six-chi.vercel.app?user=jasminaaa20&theme=radical)](https://git.io/streak-stats)
+
 
 ## 📊 Stats
 
