@@ -4,6 +4,10 @@
 
 I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents.
 
+## 🌟 My Portfolio Site (Under Construction)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-2ecc71?style=for-the-badge&logo=github&logoColor=white)](https://jasminaaa20.github.io)
+
 ## 📬 Reach me at
 
 [![Email](https://img.shields.io/badge/Email-akmal.20%40cse.mrt.ac.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmal.20@cse.mrt.ac.lk)
