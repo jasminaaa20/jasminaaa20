@@ -17,7 +17,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 [![X](https://img.shields.io/badge/X-akmal_ali_jasmin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AkmalJasmin)
 [![Instagram](https://img.shields.io/badge/Instagram-akmal_ali-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akmal_ali_2000/)
 
-## Languages
+## 💬 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,7 +31,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black)
 
-## Frameworks & Libraries
+## 📚 Frameworks & Libraries
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=openCV&logoColor=black)
 
-## Databases
+## 📊 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,7 +53,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Chroma](https://img.shields.io/badge/Chroma-00E676?style=for-the-badge&logo=databricks&logoColor=white)
 
-## Development Environments & Tools
+## 🛠️ Development Environments & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
