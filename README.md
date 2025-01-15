@@ -2,7 +2,7 @@
 
 ## 🚀 Improvise. Adapt. Overcome. 🚀
 
-I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents.
+I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents, i.e. Annual Reports.
 
 ## 🌟 My Portfolio Site (Under Construction)
 
