@@ -1,4 +1,5 @@
-# Hi there, I'm Akmal! 👋
+# Hi there, I'm Akmal! 👋 
+![Profile Views](https://komarev.com/ghpvc/?username=jasminaaa20&style=for-the-badge)
 
 ## 🚀 Improvise. Adapt. Overcome. 🚀
 
