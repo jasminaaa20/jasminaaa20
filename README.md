@@ -97,7 +97,7 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake,css,scss,c&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-> **Note**: Jupyter Notebooks have been excluded as they accounted for over 90% of my "most used languages," despite minimal use. Here's why:
+> **Note**: Jupyter Notebooks have been excluded as they accounted for over 90% of my "most used languages," which is clearly not the case. Here's why:
 
 - GitHub determines language usage stats using [Linguist](https://github.com/github/linguist), which calculates language usage based on **file size** rather than the actual number of lines of code.
 - Jupyter Notebook files (`.ipynb`) are **JSON-based** and often include significant metadata, such as:
