@@ -96,3 +96,5 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## 👨‍💻 Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake,css,scss,c&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*Jupyter Notebooks are excluded because it takes up over 90% of my most used languages for some reason. I'll update once I find the reason.
