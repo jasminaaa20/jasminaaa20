@@ -97,7 +97,11 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminaaa20&hide=vhdl,jupyter%20notebook,tcl,html,batchfile,cmake,css,scss,c&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-*Jupyter Notebooks are excluded because it takes up over 90% of my most used languages for some reason. I'll update once I find the reason.
-*So apparently, this is due to how GitHub APIs work when calculating language usage statistics. GitHub uses [Linguist](https://github.com/github/linguist) to determine the language breakdown of repositories. Linguist prioritizes file size rather than the number of lines of code.
-*And since Jupyter Notebook files (`.ipynb`) are JSON-based and often contain large amounts of metadata, including code, outputs, and visualizations (e.g., plots, tables), they have large file sizes.
-*This file size bias exxaggerates the importance of Jupyter Notebooks, which results in Jupyter Notebooks dominating the top languages used widget.
+> **Note**: Jupyter Notebooks have been excluded as they accounted for over 90% of my "most used languages," despite minimal use. Here's why:
+
+- GitHub determines language usage stats using [Linguist](https://github.com/github/linguist), which calculates language usage based on **file size** rather than the actual number of lines of code.
+- Jupyter Notebook files (`.ipynb`) are **JSON-based** and often include significant metadata, such as:
+  - Code and outputs.
+  - Visualizations (e.g., plots, tables).
+  - Large embedded data or images (encoded in base64).
+- This results in a **file size bias**, making Jupyter Notebooks appear disproportionately prominent in language stats.
