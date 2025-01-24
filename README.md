@@ -1,12 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jasminaaa20&style=for-the-badge)
 
-# Hi there, I'm Akmal! 👋 
+# Hi there, I'm Akmal! 👋
 
 ## 🚀 Improvise. Adapt. Overcome. 🚀
 
 I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents, i.e. Annual Reports.
 
-## 🌟 My Portfolio Site (Under Construction)
+## 🌟 My Portfolio Site
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-2ecc71?style=for-the-badge&logo=github&logoColor=white)](https://jasminaaa20.github.io)
 
