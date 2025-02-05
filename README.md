@@ -3,7 +3,7 @@
 # Hi there, I'm Akmal! 👋
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding" width="400" />
+  <img src="https://media1.tenor.com/m/f-nICqWLnrQAAAAd/programmer-cycle.gif" alt="Coding" width="400" />
 </p>
 
 I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents, i.e. Annual Reports.
