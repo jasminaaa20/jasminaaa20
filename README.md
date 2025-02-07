@@ -15,10 +15,8 @@ I'm a final year Computer Science & Engineering undergraduate of University of M
 ## 📬 Reach me at
 
 [![Email](https://img.shields.io/badge/Email-akmal.20%40cse.mrt.ac.lk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akmal.20@cse.mrt.ac.lk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akmal%20Ali%20Jasmin-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/akmal-ali-jasmin)
-
-[![GitHub](https://img.shields.io/badge/GitHub-jasminaaa20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasminaaa20)
 [![X](https://img.shields.io/badge/X-akmal_ali_jasmin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AkmalJasmin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akmal%20Ali%20Jasmin-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/akmal-ali-jasmin)
 [![Instagram](https://img.shields.io/badge/Instagram-akmal_ali-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akmal_ali_2000/)
 
 ## 💬 Languages
