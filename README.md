@@ -1,4 +1,4 @@
-I am taking a short break from GitHub until June 27th 2025. "Why so specific?" you may ask. That's when my final year exams end. As a full-time student AND a full-time Software Engineer, I tried hard to maintain my GitHub streak. Unfortunately, it became very obvious that it was not sustainable. For my sanity, I will be taking a short break. See you soon.
+I am taking a short break from GitHub until June 27th 2025. "Why so specific?" you may ask. That's when my final year exams end. As a full-time student, a full-time Software Engineer, AND a part-time Visiting Instructor, I tried hard to maintain my GitHub streak. Unfortunately, it became very obvious that it was not sustainable. For my sanity, I will be taking a short break. See you soon.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jasminaaa20&style=for-the-badge)
 
