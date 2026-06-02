@@ -6,7 +6,7 @@
   <img src="https://media1.tenor.com/m/f-nICqWLnrQAAAAd/programmer-cycle.gif" alt="Coding" width="400" />
 </p>
 
-I'm a final year Computer Science & Engineering undergraduate of University of Moratuwa specializing in Data Science & Engineering. With a passion for building web applications and exploring AI technologies, I'm currently working on building a state-of-the-art end-to-end RAG system for long context financial documents, i.e. Annual Reports.
+I'm a Software Engineer with over 2 years of experience.
 
 ## 🌟 My Portfolio Site
 
